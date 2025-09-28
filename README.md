@@ -3,9 +3,12 @@
 Site simples em PHP + HTML (sem CSS) para uma pequena oficina de artes, com menu e rodapé reutilizáveis via include, integração com MySQL via PDO, e CRUD de um único módulo.
 ## Composto de:
 Home: Exibindo o último registro "Sobre".
+
 Sobre: CRUD com upload de imagem.
+
 Galeria: Lista de todas as imagens cadastradas.
 P.S JPEG, PNG, JPG, GIF, WEBP aceitos para upload de imagem
+
 Contato: Página estrutural.
 
 ## -> SCRIPT BANCO DE DADOS
